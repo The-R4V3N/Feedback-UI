@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+![Lines of code](https://tokei.rs/b1/github/The-R4V3N/Feedback-UI)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ![image](https://user-images.githubusercontent.com/18666373/227734250-72e04d59-940c-4e32-b569-3fe8c9067da1.png)
